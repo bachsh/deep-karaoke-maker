@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 data/
 checkpoints/
 *.wav
@@ -73,6 +74,8 @@ fabric.properties
 .idea/sonarlint
 
 ### Python ###
+=======
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -98,6 +101,10 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+<<<<<<< HEAD
+=======
+MANIFEST
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -115,16 +122,31 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+<<<<<<< HEAD
 .pytest_cache/
+=======
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+<<<<<<< HEAD
+=======
+.pytest_cache/
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 
 # Translations
 *.mo
 *.pot
 
+<<<<<<< HEAD
+=======
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 # Flask stuff:
 instance/
 .webassets-cache
@@ -145,7 +167,11 @@ target/
 .python-version
 
 # celery beat schedule file
+<<<<<<< HEAD
 celerybeat-schedule.*
+=======
+celerybeat-schedule
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
 
 # SageMath parsed files
 *.sage.py
@@ -171,7 +197,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 
 # End of https://www.gitignore.io/api/python,pycharm
 
+=======
+>>>>>>> 68a123505dc3e12ac2b9587c806ec9e089f9bfe9
