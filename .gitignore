@@ -1,3 +1,9 @@
+data/
+checkpoints/
+*.wav
+*.npy
+*.torch
+metadata.json
 
 # Created by https://www.gitignore.io/api/python,pycharm
 
