@@ -8,6 +8,6 @@ Based on [1], who have their own implementation (in MATLAB) [here](https://githu
 1. Run `python spectrum_helper/__init__.py` to generate the dataset.
 1. Run `python deep_karaoke.py train` to train the network. (run with `--help` to see options)
 
-
+## References
 [1] 
     Simpson A.J.R., Roma G., Plumbley M.D. (2015) Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network. In: Vincent E., Yeredor A., Koldovský Z., Tichavský P. (eds) Latent Variable Analysis and Signal Separation. LVA/ICA 2015. Lecture Notes in Computer Science, vol 9237. Springer, Cham.
