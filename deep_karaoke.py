@@ -6,7 +6,7 @@ from torchvision import transforms
 from time import time
 from fire import Fire
 from scipy.io import wavfile
-from convoluraoke import spectrum_helper
+import spectrum_helper
 
 TRAIN_PORTION = 0.8
 
